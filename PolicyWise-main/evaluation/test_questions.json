@@ -1,0 +1,114 @@
+[
+  {
+    "id": "G1-01",
+    "question": "What is the current Tier 1 hotel cap?",
+    "expected_answer": "INR 6000 per night including tax.",
+    "expected_source": "G1_policy_1.pdf",
+    "expected_page": 1
+  },
+  {
+    "id": "G1-02",
+    "question": "How many remote days can be carried forward?",
+    "expected_answer": "Zero. Unused remote days do not carry forward.",
+    "expected_source": "G1_policy_2.pdf",
+    "expected_page": 1
+  },
+  {
+    "id": "G1-03",
+    "question": "Can I claim a personal holiday cancellation?",
+    "expected_answer": "No, unless approved by HR.",
+    "expected_source": "G1_policy_1.pdf",
+    "expected_page": 1
+  },
+  {
+    "id": "G1-04",
+    "question": "What was the old Tier 1 cap and is it current?",
+    "expected_answer": "INR 4500 per night. This is a superseded policy.",
+    "expected_source": "G1_policy_4.pdf",
+    "expected_page": 1
+  },
+  {
+    "id": "G1-05",
+    "question": "Can a contractor work remotely 8 days?",
+    "expected_answer": "Not established. The policy specifies full-time employees.",
+    "expected_source": "G1_policy_2.pdf",
+    "expected_page": 1
+  },
+  {
+    "id": "G1-06",
+    "question": "What is the office parking fee?",
+    "expected_answer": "Not specified in the provided policies.",
+    "expected_source": null,
+    "expected_page": null
+  },
+  {
+    "id": "G1-07",
+    "question": "Can I expense INR 27000 without approval?",
+    "expected_answer": "No. Prior manager and finance director approval is required.",
+    "expected_source": "G1_policy_3.pdf",
+    "expected_page": 1
+  },
+  {
+    "id": "G1-08",
+    "question": "What is the deadline for travel claims?",
+    "expected_answer": "15 calendar days after travel ends.",
+    "expected_source": "G1_policy_1.pdf",
+    "expected_page": 1
+  },
+  {
+    "id": "TC01",
+    "question": "What is the hotel accommodation limit for Tier 1 cities?",
+    "expected_answer": "INR 6000 per night, including tax.",
+    "expected_source": "G1_policy_1.pdf",
+    "expected_page": 1
+  },
+  {
+    "id": "TC02",
+    "question": "How many remote working days can a full-time employee request per month?",
+    "expected_answer": "Up to 8 days per calendar month with manager approval.",
+    "expected_source": "G1_policy_2.pdf",
+    "expected_page": 1
+  },
+  {
+    "id": "TC03",
+    "question": "Within how many days must employees submit expense receipts?",
+    "expected_answer": "Within 30 calendar days of purchase.",
+    "expected_source": "G1_policy_3.pdf",
+    "expected_page": 1
+  },
+  {
+    "id": "TC04",
+    "question": "Who must approve business-class airfare before booking?",
+    "expected_answer": "The CFO must provide written approval before booking.",
+    "expected_source": "G1_policy_1.pdf",
+    "expected_page": 1
+  },
+  {
+    "id": "TC05",
+    "question": "What was the old Tier 1 hotel accommodation limit?",
+    "expected_answer": "The old limit was INR 4500, but this policy is superseded and must not be used for current claims.",
+    "expected_source": "G1_policy_4.pdf",
+    "expected_page": 1
+  },
+  {
+    "id": "TC06",
+    "question": "Does the company reimburse personal entertainment expenses?",
+    "expected_answer": "No. Personal entertainment expenses are not reimbursable.",
+    "expected_source": "G1_policy_3.pdf",
+    "expected_page": 1
+  },
+  {
+    "id": "TC07",
+    "question": "Can employees use personal devices to access production systems?",
+    "expected_answer": "No. Company laptops are mandatory for confidential information access, and personal devices are not permitted for production access.",
+    "expected_source": "G1_policy_2.pdf",
+    "expected_page": 1
+  },
+  {
+    "id": "TC08",
+    "question": "Does the policy provide free international holiday trips?",
+    "expected_answer": "Not specified in the provided policies.",
+    "expected_source": null,
+    "expected_page": null
+  }
+]

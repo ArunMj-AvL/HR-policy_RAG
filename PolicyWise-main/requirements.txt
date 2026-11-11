@@ -1,0 +1,10 @@
+streamlit>=1.36
+PyMuPDF>=1.24
+scikit-learn>=1.4
+openai>=1.30
+pypdf>=4.0
+pdfplumber>=0.11        # fallback PDF reader
+numpy>=1.26
+faiss-cpu>=1.8          # vector index
+sentence-transformers>=3.0   # all-MiniLM-L6-v2 embeddings (downloads ~90 MB on first run)
+pytest>=8.0

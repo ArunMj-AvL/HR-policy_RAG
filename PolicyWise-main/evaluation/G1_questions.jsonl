@@ -1,0 +1,8 @@
+{"question": "What is the current Tier 1 hotel cap?", "expected_fact": "INR 6000 per night including tax", "source": "G1_policy_1.pdf"}
+{"question": "How many remote days can be carried forward?", "expected_fact": "Zero", "source": "G1_policy_2.pdf"}
+{"question": "Can I claim a personal holiday cancellation?", "expected_fact": "No unless HR approved", "source": "G1_policy_1.pdf"}
+{"question": "What was the old Tier 1 cap and is it current?", "expected_fact": "INR 4500, superseded", "source": "G1_policy_4.pdf"}
+{"question": "Can a contractor work remotely 8 days?", "expected_fact": "Not established; policy specifies full-time employees", "source": "G1_policy_2.pdf"}
+{"question": "What is the office parking fee?", "expected_fact": "Not stated in supplied sources", "source": "none"}
+{"question": "Can I expense INR 27000 without approval?", "expected_fact": "No; prior manager and finance director approval required", "source": "G1_policy_3.pdf"}
+{"question": "What is the deadline for travel claims?", "expected_fact": "15 calendar days after travel ends", "source": "G1_policy_1.pdf"}
